@@ -15,7 +15,7 @@ This is a Selenium-Java coding practise project.
 
 As Gradle is the build tool used, use gradlew clean build command to build the project.
 
-# #How to execute the tests
+## How to execute the tests
 
 There are multiple ways tests can be run:
 ##### Can be run as gradlew build command
